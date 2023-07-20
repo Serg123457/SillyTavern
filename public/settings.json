@@ -1,6 +1,6 @@
 {
     "username": "You",
-    "api_server": "http://localhost:5100/api",
+    "api_server": "http://127.0.0.1:5000/api",
     "api_server_textgenerationwebui": "http://127.0.0.1:7860",
     "preset_settings": "Classic-Pygmalion-6b",
     "user_avatar": "legat.png",
